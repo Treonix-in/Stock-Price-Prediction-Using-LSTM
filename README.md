@@ -22,7 +22,7 @@ Once the model is trained, we evaluate its performance on the testing dataset. W
 
 ## Usage 💪🏻
 To run the project locally, follow these steps:
-1. Clone this repository: `git clone https://github.com/034adarsh/Stock-Price-Prediction-Using-LSTM`
+1. Clone this repository: `git clone https://github.com/Treonix-in/Stock-Price-Prediction-Using-LSTM.git`
 2. No need to download any dataset, this project uses Yahoo finance library to directly fetch data, just write the correct company code.
 3. Run the `training code` script in the notebook to train the LSTM model.
 4. Run the `predict code` script in the notebook to make predictions on new data.
@@ -35,14 +35,5 @@ In this section, we present the results of our stock market prediction experimen
 ## Contributing 🤝
 We welcome contributions to enhance the project and make it even more effective. If you have any suggestions, bug fixes, or new features to add, please submit a pull request. We appreciate your contributions!
 
-## License 🔐
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact 📩
-For any questions or inquiries, feel free to reach out to us:
-- **Email:** adarsh36jnp@gmail.com
-- **LinkedIn:** [Adarsh Kumar Singh](https://www.linkedin.com/in/adarsh-kumar-singh-3aa172201/)
 
 Let's make accurate stock market predictions together!
-
-Thank you for visiting our project repository. Happy predicting! 😇
